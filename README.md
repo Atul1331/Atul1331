@@ -1,4 +1,5 @@
 ## Hi there 👋, I am Atul
+![](https://komarev.com/ghpvc/?username=Atul1331&color=blueviolet)
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <p>I am 2<sup>nd</sup> year IT undergrad from Bengal Institute of technology, Kolkata. Currently, I am learning front-end web development and preparing DSA. </p>
 

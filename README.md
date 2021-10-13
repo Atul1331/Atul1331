@@ -9,8 +9,8 @@
 
 <h3> Let's Connect </h3>
 
-<a href = "https://www.linkedin.com/in/atul-sourabh-829744208/" > <img src ="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width= "40" ></a>
-<a href = "mailto:atulsourabh083@gmail.com"> <img src="https://img-premium.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1632557778~hmac=6570a1f02760635cbe4d99a518ce6639" alt="Mail" height="40" width= "40"></a>
+<a href = "https://www.linkedin.com/in/atul-sourabh-829744208/"  > <img src ="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width= "40" ></a>
+<a href = "mailto:atulsourabh083@gmail.com"> <img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.jpg" alt="Mail" height="40" width= "40"></a>
 
 
 

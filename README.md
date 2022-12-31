@@ -1,8 +1,18 @@
-## Hi there 👋, I am Atul
-![](https://komarev.com/ghpvc/?username=Atul1331&color=blueviolet)
-<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
-<p>Hi, I'm Atul Sourabh, an undergrad pursuing B.Tech in Information Technology. I am a Community Team Member at @Hackforcode. I build websites using HTML, CSS & JS. I enjoy watching movies and rewatching them. </p>
+## Hey 👋, I am Atul
 
+<p>Hi, I'm Atul Sourabh, an undergraduate pursuing B.Tech in Information Technology. I am a Community Team Member at @Hackforcode. I am a front-end developer. I enjoy watching movies.</p>
+
+## Talking about Personal stuffs:
+
+* I'm currently working on my Portfolio.
+    
+* I'm currently learning ReactJS.
+    
+* Ask me about anything. I am happy to help.
+    
+* I'm looking to collaborate and contribute to other's projects.
+    
+* Reach me at [atulsourabh083@gmail.com](http://atulsourabh083@gmail.com)
 
 <h3>Languages and Tools</h3>
 <p align="left"> <a href = "https://www.java.com/"> <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt= "java" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>

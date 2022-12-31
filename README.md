@@ -1,29 +1,31 @@
-## Hey 👋, I am Atul
+# Hey 👋, I am Atul
 
 <p>Hi, I'm Atul Sourabh, an undergraduate pursuing B.Tech in Information Technology. I am a Community Team Member at @Hackforcode. I am a front-end developer. I enjoy watching movies.</p>
 
 ## Talking about Personal stuffs:
 
-* I'm currently working on my Portfolio.
+*  🔭 I'm currently working on my Portfolio.
     
-* I'm currently learning ReactJS.
+*  🌱 I'm currently learning ReactJS.
     
-* Ask me about anything. I am happy to help.
+*  💬 Ask me about anything. I am happy to help.
     
-* I'm looking to collaborate and contribute to other's projects.
+*  👯 I'm looking to collaborate and contribute to other's projects.
     
 * Reach me at [atulsourabh083@gmail.com](http://atulsourabh083@gmail.com)
 
+
+<!--
 <h3>Languages and Tools</h3>
 <p align="left"> <a href = "https://www.java.com/"> <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt= "java" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<h3> Let's Connect </h3>
+-->
 
-<a href = "https://www.linkedin.com/in/atul-sourabh-829744208/"  > <img src ="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width= "40" style="margin-right:10px;"></a>
-<a href = "mailto:atulsourabh083@gmail.com"> <img src="https://img.icons8.com/color/344/gmail-new.png" alt="Mail" height="45" width= "45"></a>
-<a href = "https://twitter.com/atul27sourabh"> 
-  <img src = "https://img.icons8.com/color/344/twitter--v1.png"
-       alt="Twitter" height="50" width="50"></a>
+## Let's Connect 
+
+<a href = "https://www.linkedin.com/in/atul-sourabh-829744208/"> <img src ="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width= "40" style="margin-right:30px;"></a>
+<a href = "https://twitter.com/atul27sourabh"> <img src = "https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="40" width="40"></a>
+
 
 
 <!--
